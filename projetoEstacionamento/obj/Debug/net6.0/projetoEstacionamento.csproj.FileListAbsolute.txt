@@ -1,0 +1,14 @@
+C:\dev\projetoEstacionamento\projetoEstacionamento\bin\Debug\net6.0\projetoEstacionamento.exe
+C:\dev\projetoEstacionamento\projetoEstacionamento\bin\Debug\net6.0\projetoEstacionamento.deps.json
+C:\dev\projetoEstacionamento\projetoEstacionamento\bin\Debug\net6.0\projetoEstacionamento.runtimeconfig.json
+C:\dev\projetoEstacionamento\projetoEstacionamento\bin\Debug\net6.0\projetoEstacionamento.dll
+C:\dev\projetoEstacionamento\projetoEstacionamento\bin\Debug\net6.0\projetoEstacionamento.pdb
+C:\dev\projetoEstacionamento\projetoEstacionamento\obj\Debug\net6.0\projetoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projetoEstacionamento\projetoEstacionamento\obj\Debug\net6.0\projetoEstacionamento.AssemblyInfoInputs.cache
+C:\dev\projetoEstacionamento\projetoEstacionamento\obj\Debug\net6.0\projetoEstacionamento.AssemblyInfo.cs
+C:\dev\projetoEstacionamento\projetoEstacionamento\obj\Debug\net6.0\projetoEstacionamento.csproj.CoreCompileInputs.cache
+C:\dev\projetoEstacionamento\projetoEstacionamento\obj\Debug\net6.0\projetoEstacionamento.dll
+C:\dev\projetoEstacionamento\projetoEstacionamento\obj\Debug\net6.0\refint\projetoEstacionamento.dll
+C:\dev\projetoEstacionamento\projetoEstacionamento\obj\Debug\net6.0\projetoEstacionamento.pdb
+C:\dev\projetoEstacionamento\projetoEstacionamento\obj\Debug\net6.0\projetoEstacionamento.genruntimeconfig.cache
+C:\dev\projetoEstacionamento\projetoEstacionamento\obj\Debug\net6.0\ref\projetoEstacionamento.dll
